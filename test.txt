@@ -1,0 +1,3 @@
+zdr kopr bebce 
+
+System.out.println{" Katq e golqm chakal"};
